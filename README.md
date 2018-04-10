@@ -1,4 +1,4 @@
-# 3D-Chess
+# 3D-Chess Assignment
 
 This project was created with Java and JavaFX.
   - Unicode chess pieces are placed on the gridpane
